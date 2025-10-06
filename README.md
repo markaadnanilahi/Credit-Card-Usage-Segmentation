@@ -1,2 +1,2 @@
 # Credit-Card-Usage-Segmentation
-K-Means Clustering project for BMS Finance Capstone to segment bank customers based on spending habits.
+This project focuses on developing unsupervised learning models for customer segmentation based on credit card usage data. The models aim to provide insights into distinct customer segments, improve credit risk assessment, and optimize marketing strategies. Deliverables include segmentation models, comprehensive data visualizations, and a comparative analysis of various algorithms..
